@@ -25,6 +25,47 @@ export default {
       },
     },
     {
+      name: 'overview',
+      title: 'Overview',
+      type: 'text',
+    },
+    {
+      name: 'internalStructure',
+      title: 'Internal Structure',
+      type: 'text',
+    },
+    {
+      name: 'surfaceGeology',
+      title: 'Surface Geology',
+      type: 'text',
+    },
+    {
+      name: 'sourceLink',
+      title: 'Wikipedia Source Link',
+      type: 'string',
+    },
+    {
+      name: 'rotationTime',
+      title: 'Rotation Time',
+      type: 'string',
+    },
+    {
+      name: 'revolutionTime',
+      title: 'Revolution Time',
+      type: 'string',
+    },
+    {
+      name: 'radius',
+      title: 'Radius',
+      type: 'string',
+    },
+    {
+      name: 'averageTemp',
+      title: 'Average Temp',
+      type: 'string',
+    },
+
+    {
       name: 'image',
       title: 'Image',
       type: 'image',
